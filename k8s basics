@@ -15,3 +15,5 @@ What are microservices?
 Microservices are a software architecture pattern that structures applications as a collection of small, independently deployable services.
 
 Each microservice is designed to perform a specific function or business capability and communicates with other services over well-defined APIs or protocols.
+
+Kubernetes Architecture
