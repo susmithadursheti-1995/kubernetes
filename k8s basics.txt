@@ -7,3 +7,5 @@ We run multiple containers in docker host(server)
 we host our application on single docker host what if docker host fails. containers also fail. To avoid service disruption and for high availability we need to setup multiple docker hosts to manage those multiple hosts we need a automation tool we have docker swarm in docker but google created kubernetes with more efficient to manage multiple hosts.
 
 Forming a cluster by combining multiple docker hosts into single entity is called Kubernetes.
+Scheduling multiple containes on docker hosts
+To start containers automatically if they stop
